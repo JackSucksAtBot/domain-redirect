@@ -1,0 +1,13 @@
+body {
+    background-color: #23272a;
+    color: white;
+}
+.btn:hover, .btn-large:hover, .btn-small:hover {
+    color: black;
+}
+.btn, .btn-large, .btn-small {
+    color: black;
+}
+.row .col.m12 {
+    color: whitesmoke;
+}
